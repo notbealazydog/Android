@@ -10,3 +10,5 @@
 通过git上传文件
 
 ## 三、实验结果截图
+
+![实验一截图](C:\Users\lenovo\Desktop\实验一截图.png)
