@@ -11,4 +11,4 @@
 
 ## 三、实验结果截图
 
-![实验一截图](C:\Users\lenovo\Desktop\实验一截图.png)
+![实验一截图](https://github.com/notbealazydog/Android/blob/master/%E5%AE%9E%E9%AA%8C%E4%B8%80%E6%88%AA%E5%9B%BE.png)
